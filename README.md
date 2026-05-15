@@ -237,7 +237,7 @@ df['Item_Fat_Content'] = df['Item_Fat_Content'].replace({
 **Yashvi Solanki**
 Data Science & Analytics Enthusiast
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]([https://linkedin.com/in/yashvi-solanki])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/yashvi-solanki)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/YASHVII21)
 
 ---
