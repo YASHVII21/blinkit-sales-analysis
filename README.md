@@ -231,25 +231,14 @@ df['Item_Fat_Content'] = df['Item_Fat_Content'].replace({
 })
 ```
 
----
-
-## 🚀 Future Improvements
-
-- [ ] **Streamlit Dashboard** — interactive sales explorer with filters by tier, outlet type, and category
-- [ ] **Sales Forecasting** — ARIMA or Prophet model on establishment year trend data
-- [ ] **Power BI / Tableau** — executive dashboard for business stakeholder presentation
-- [ ] **Cohort Analysis** — outlet age vs. performance correlation over time
-- [ ] **Price Elasticity Estimation** — statistical relationship between MRP and sales volume
-
----
 
 ## 👩‍💻 Author
 
 **Yashvi Solanki**
 Data Science & Analytics Enthusiast
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/YOUR_PROFILE)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]([https://linkedin.com/in/yashvi-solanki])
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/YASHVII21)
 
 ---
 
