@@ -23,7 +23,7 @@ The project simulates a real-world data analyst workflow: raw data → database 
 
 | Property | Detail |
 |---|---|
-| Source | [Kaggle - Blinkit Grocery Dataset]([(https://www.kaggle.com/datasets/mukeshgadri/blinkit-dataset)] |
+| Source | [Kaggle - Blinkit Grocery Dataset](https://www.kaggle.com/datasets/mukeshgadri/blinkit-dataset)
 | Records | 8,523 rows |
 | Domain | Indian Quick Commerce / Grocery Retail |
 
